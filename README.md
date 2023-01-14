@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Hoanglong9090/Article-preview-component)
+- Live Site URL: [Github Page](https://hoanglong9090.github.io/Article-preview-component/)
 
 ## My process
 
@@ -49,6 +49,5 @@ Through this challenge, I learned more about DOM, how to get Element via getElem
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Gmail - [HoangLong](letrunghoanglong2020@gmail.com)
 
